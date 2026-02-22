@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Glimpse of Us",
+  "base_artist": "Joji",
+  "createdAt": "2026-02-22T02:06:12.755568Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/01_Glimpse_of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/02_Glimpse_of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/03_Glimpse_of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Glimpse Of Us",
+      "artist": "Løv Li",
+      "has_synced": true,
+      "path": "select/04_Glimpse_Of_Us_Løv_Li.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Glimpse Of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/05_Glimpse_Of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/06_Glimpse_of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Glimpse Of Us",
+      "artist": "Capstan",
+      "has_synced": true,
+      "path": "select/07_Glimpse_Of_Us_Capstan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Madilyn Bailey",
+      "has_synced": true,
+      "path": "select/08_Glimpse_of_Us_Madilyn_Bailey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Madilyn",
+      "has_synced": true,
+      "path": "select/09_Glimpse_of_Us_Madilyn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Glimpse of Us (Original Mix)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/10_Glimpse_of_Us_(Original_Mix)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/11_Glimpse_of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/12_Glimpse_of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/13_Glimpse_of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Conor Maynard",
+      "has_synced": true,
+      "path": "select/14_Glimpse_of_Us_Conor_Maynard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Glimpse_of_Us_Joji.txt"
+    }
+  ]
+}
